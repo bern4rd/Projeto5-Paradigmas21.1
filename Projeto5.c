@@ -10,8 +10,6 @@
 //  Felipe Bernard / Pedro Camara                                     //
 //********************************************************************//
 
-void menu();
-
 int main(){
     
     limparTela();
